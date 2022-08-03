@@ -1,7 +1,7 @@
 ## Olá! Bem-vindo à minha página do GitHub.
 ### Meu nome é Vinícius Rodrigues e meu nickname é Vinicius-R-PeoplePy
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=Vinicius-R-PeoplePy&color=purple" alt="profile views"/> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=Vinicius-R-PeoplePy&color=blue" alt="profile views"/> </p>
 
 - Atualmente estou estudando Linux e programação. 
 
