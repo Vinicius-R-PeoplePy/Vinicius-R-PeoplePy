@@ -10,8 +10,9 @@
 - Pergunte a mim sobre Linux, Python, hobbies, jogos que curto jogar, e outros! =)
 
 <br> <br> 
-
-<a href="https://www.linkedin.com/in/vinícius-rodrigues-3a6b90246"
-target="_blank>"
-	<img src="httpss://img.shields.io/badge/vinícius-rodrigues-3a6b90246-05122A?style=flat&logo=linkedin" alt="linkedin"/>
+<p align="left" style="background:green">
+<a href="https://www.linkedin.com/in/vinícius-rodrigues-5b2098245
+" target="_blank">
+	<img align="center" src="https://img.shields.io/badge/-Vinicius-R-PeoplePy-05122A?style=flat&logo=linkedin" alt="linkedin"/>
 </a>
+</p>
