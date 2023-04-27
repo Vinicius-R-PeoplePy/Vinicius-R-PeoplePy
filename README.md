@@ -11,8 +11,8 @@
 
 <br> <br> 
 <p align="left" style="background:green">
-<a href="https://www.linkedin.com/in/vinícius-rodrigues-5b2098245
-" target="_blank">
+<a href="https://www.linkedin.com/in/vin%C3%ADcius-rodrigues-71a5851b8/"
+target= "_blank">
 	<img align="center" src="https://img.shields.io/badge/-Vinicius-R-PeoplePy-05122A?style=flat&logo=linkedin" alt="linkedin"/>
 </a>
 </p>
