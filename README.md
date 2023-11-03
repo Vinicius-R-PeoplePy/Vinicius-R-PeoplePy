@@ -5,9 +5,7 @@
 
 - Atualmente estou estudando Linux e programação. 
 
-- Estou aprendendo Python. 
-
-- Pergunte a mim sobre Linux, Python, hobbies, jogos que curto jogar, e outros! =)
+- Estou aprendendo Python, JavaScript, HTML & CSS. 
 
 <br> <br> 
 <p align="left" style="background:green">
